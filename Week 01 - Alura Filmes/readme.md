@@ -1,1 +1,1 @@
-[Clique aqui](https://app.powerbi.com/view?r=eyJrIjoiNmI2Mzc3OWQtNmY2ZS00NGE0LWE1YzEtNGUyYWZjZWFlOTYwIiwidCI6IjkxODA4YmQwLTVjNmEtNDlkZi05M2RmLWZiNmE3NDBmNTk0ZCIsImMiOjh9) para visualizar o dashboard desenvolvido para a Alura Filmes:
+[Clique aqui](https://app.powerbi.com/view?r=eyJrIjoiNmI2Mzc3OWQtNmY2ZS00NGE0LWE1YzEtNGUyYWZjZWFlOTYwIiwidCI6IjkxODA4YmQwLTVjNmEtNDlkZi05M2RmLWZiNmE3NDBmNTk0ZCIsImMiOjh9&pageName=ReportSectiona6afd232a1b13d3420ce) para visualizar o dashboard desenvolvido para a Alura Filmes:
