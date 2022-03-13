@@ -1,0 +1,1 @@
+(Clique aqui)[https://app.powerbi.com/view?r=eyJrIjoiNmI2Mzc3OWQtNmY2ZS00NGE0LWE1YzEtNGUyYWZjZWFlOTYwIiwidCI6IjkxODA4YmQwLTVjNmEtNDlkZi05M2RmLWZiNmE3NDBmNTk0ZCIsImMiOjh9] para visualizar o dashboard desenvolvido para a Alura Filmes:
