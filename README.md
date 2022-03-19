@@ -1,6 +1,6 @@
 ## Alura Challenge - Desafio de BI
 
-Neste repositório serão documentadas análises desenvolvidas durante o Alura Challenge BI.
+Neste repositório serão documentadas análises desenvolvidas durante a [edição #2 do Alura Challenge - Desafios BI](https://www.alura.com.br/challenges/bi-2).
 
 ### O que é o Challenge - Desafio de BI?
 O Challenge é um desafio promovido pela [Alura](https://www.alura.com.br) para que os alunos coloquem em prática os conhecimentos adquiridos com os cursos da plataforma. Diferente dos dashboards desenvolvidos nos cursos guiados pelos instrutores, neste desafio nós recebemos as demandas de cada projeto semanalmente, por meio de um quadro no Trello com as solicitações pretendidas. Todo o tratamento dos dados, escolha das visualização, design e plano de fundo do dashboard, são desenvolvidos de forma individual pelos alunos, com o suporte e mentorias da equipe e de outros alunos no Discord. Para este desafio, com o tema de Business Intelligence, foram analisados dados de três negócios: AluraFilms, AluraFood e Alura Skimó.
